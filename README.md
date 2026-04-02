@@ -60,6 +60,7 @@ UI updates automatically when state changes
 📱 Responsiveness
 Implemented using Flexbox + Grid + Media Queries
 Mobile-first optimization for better accessibility
+
 📂 Project Structure
 financial-dashboard/
 │
@@ -67,11 +68,8 @@ financial-dashboard/
 ├── style.css
 ├── script.js
 └── README.md
-🔍 Future Improvements
-User authentication system 🔐
-Backend integration (Node.js + Database)
-Advanced analytics & reports 📈
-Cloud sync for multi-device access ☁️
+
+
 👨‍💻 Author
 
 Abhijeet Jha
